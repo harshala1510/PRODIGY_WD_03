@@ -25,7 +25,10 @@ Players take turns as *X* and *O*, and the first to align three in a row (horizo
 
 ## 📂 Project Structure
 
-├── index.html   # Main HTML file ├── style.css    # Styling file ├── script.js    # Game logic └── README.md    # Project documentation
+├── index.html   # Main HTML file 
+├── style.css    # Styling file
+├── script.js    # Game logic
+├─ README.md    # Project documentation
 
 ---
 
